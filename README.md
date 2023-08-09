@@ -1,4 +1,4 @@
 # coursera_Notebook_Assignement
-## Editing th file 
+## Editing the file 
 
 its  a markdown file in this repository
